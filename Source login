@@ -1,0 +1,11 @@
+String username="dimas";
+        String password="123455";
+            if (username.equalsIgnoreCase(jTextField1.getText())&& password.equalsIgnoreCase(jTextField2.getText())){
+                this.setVisible(false);
+                new MENU_UTAMA().setVisible(true);
+                }else{
+                    javax.swing.JOptionPane.showMessageDialog(null, "MAAF MASUKAN USER DAN PASSWORD ANDA SALAH!!");
+                    jTextField1.setText("");
+                    jTextField2.setText("");
+                    jTextField1.requestFocus();
+            }
