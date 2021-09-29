@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> CSS Website Layout </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class ="header">
+		<h1> Selamat Datang </h1>
+		<h1> Turnamen Free Fire Esport Se Indonesia </h1>
+	</div>
+
+	<div class="topnav">
+		<a href="#"> DAFTAR </a>
+		<a href="#"> LOGIN </a>
+		<a href="#"> BANTUAN </a>
+	</div>
+
+	<div class="row">
+		<div class="column">
+			<h1> Peraturan Umum  </h1>
+			<p>
+				1.	KUALIFIKASI secara ONLINE akan diselenggarakan dengan format 2 map dan sistem poin. Dimana team akan di bagi dan dimasukkan dalam grup yang telah ditentukan. Peringkat 1-3 setiap grup, lolos ke babak selanjutnya.
+				2.	GRAND FINAL secara OFFLINE adalah acara final yang akan mempertemukan 12 Team terbaik (termasuk Team tuan rumah) yang telah lolos untuk memperebutkan title juara.
+				3.	Babak Semi Final/Golden Tiket , peringkat 4-7 setiap grup akan ditandingkan kembali dengan format 3 map dan sistem poin. Peringkat 1 dan 2 babak semi final akan lolos ke GRAND FINAL
+				4.	Semua tim diharuskan membaca Petunjuk Pelaksanaan dan Petunjuk Teknis. Berpartisipasi dalam TURNAMEN menandakan bahwa tim setuju untuk mematuhi semua peraturan dan ketentuan.
+				5.	Setiap tim yang melanggar peraturan akan dikenakan sanksi dan/atau didiskualifikasi dari TURNAMEN.
+				6.	Kualifikasi ONLINE
+				7.	GRAND FINAL OFFLINE
+			</p>
+		</div>
+
+		<div class="column">
+			<h1> Syarat Untuk Peserta </h1>
+			<p>
+				1.   Kompetisi ini terbuka untuk umum, seluruh peserta diperbolehkan berpartisipasi mengikuti ternamen tersebut
+				2.   Peserta wajib berstatus sebagai Warga Negara Indonesia 
+				3.   Peserta harus mendaftarkan diri sesuai dengan format yang telah ditentukan oleh Panitia.
+				4.   Seluruh peserta diwajibkan memiliki Device masing-masing dan INTERNET yang stabil karena kompetisi ini dari tahap Kualifikasi akan dilakukan secara online. 
+				5.  Seluruh peserta DILARANG menggunakan Tablet/Emulator  dalam bentuk apapun pada saat berkompetisi
+			</p>
+		</div>
+
+		<div class="column">
+			<h1> Format Turnamen </h1>
+			<p>
+				Hanya pemain yang terdaftar pada TERNAMEN yang dapat mengikuti pertandingan. Semua pemain dan tim harus membaca dan mengikuti regulasi turnamen dan siap menjunjung tinggi semangat sportifitas dan fairplay. Penggunaan program ilegal dalam bentuk apapun akan dikenakan sangsi atau diskualifikasi.
+				Turnamen memiliki 3 fase yaitu: Kualifikasi, Semi Final, Grand Final dengan pengaturan format lobby turnamen. 
+				●      Kualifikasi 
+				1. Server: Online Server Indonesia 
+				2. Mode: Battle Royal, Squad 
+				3. Map: Bermuda-purgatori
+
+				●      Semi Final
+				1. Server: Online Server Indonesia 
+				2. Mode: Battle Royal, Squad
+				3. Map : Bermuda-Kalahari-Purgatory
+
+				● 	Golden Tiket 
+				1. Server: Online Server Indonesia
+				2. Mode: Battle Royal, Squad 
+				3. Map : Bermuda-Kalahari-Purgatory
+			</p>
+		</div>
+	</div>
+
+	<div class="footer">
+		<p>Copyright @Dimasabimayu00.com edited By Dimas Abimayu</p>
+	</div>
+</body>
+</html>
